@@ -1,1 +1,1 @@
-# background-generator
+# background-generator is a generator of background - color
